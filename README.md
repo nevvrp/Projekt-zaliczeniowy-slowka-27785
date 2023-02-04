@@ -1,4 +1,4 @@
-# Opis programu cf
+# Opis programu 
   * Program do nauki słówek, autor Zuzanna Paluszczak. Kod programu został
   sprawdzony pod kątem reguł gramatycznych PEP8.
 
