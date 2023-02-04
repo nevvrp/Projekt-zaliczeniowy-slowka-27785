@@ -1,0 +1,9 @@
+[
+    {
+        "username": "test",
+        "password": "test",
+        "path": "slowka.json",
+        "last_exam": "2023-02-04",
+        "passed_successfully": false
+    }
+]

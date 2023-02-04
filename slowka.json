@@ -1,0 +1,17 @@
+[
+    {
+        "pl": "drzewo",
+        "en": "tree",
+        "mastered": false
+    },
+    {
+        "pl": "samochod",
+        "en": "car",
+        "mastered": false
+    },
+    {
+        "pl": "pilka",
+        "en": "ball",
+        "mastered": false
+    }
+]
